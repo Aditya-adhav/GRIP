@@ -9,8 +9,11 @@ Prerequisites
 Python 3.6 or higher installed on your system.
 
 Required Python libraries can be installed using the following command:
+
 pip install opencv-python
+
 pip install numpy
+
 pip install pandas
 
 

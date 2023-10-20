@@ -1,4 +1,4 @@
-# GRIP
+# The SparksFoundation- GRIP internship #OCT2023
 Color Detection in Python
 This Python project is designed to help you detect and identify colors in images using computer vision techniques. With the help of this project, you can extract dominant colors from an image, identify specific colors, and even create visualizations of color distributions.
 
